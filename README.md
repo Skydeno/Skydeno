@@ -3,6 +3,7 @@
 I love to practice everything connected to front-end development. My preferred framework is React, still working on getting to know it better.
 
 - 🤝 I’m looking for help with **internship / practice**
+- ⚡ My beloved hobbies are **aviation and computer building**
 
 #### Skills: 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
