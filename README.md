@@ -11,6 +11,3 @@ I love to practice everything connected to front-end development. My preferred f
 📫 How to reach me: Simpliest way is to visit my portfolio site and write me an email, or write to me on social media. 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skydeno)](https://github.com/anuraghazra/github-readme-stats)
-
