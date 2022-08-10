@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, My name is Konrad!</h1>
-I am currently student at WSB University in Gdańsk.
+<h3 align="center">I am dedicated and hard-working student at WSB University in Gdańsk.</h3>
 I love to practice everything connected to front-end development. My preferred framework is React, still working on getting to know it better.
 
 - 🤝 I’m looking for help with **internship / practice**
