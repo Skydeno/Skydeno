@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, My name is Konrad!</h1>
-<h3 align="center">I am IT Bachelor.</h3>
-I love to practice everything connected to front-end development. My preferred framework is React, still working on getting to know it better.
+<h3 align="center">I am Frontend developer.</h3>
+I love to practice everything connected to front-end development. My preferred framework is React, learning Next.js as well.
 
 - ⚡ My beloved hobbies are **aviation and computer building**
 
